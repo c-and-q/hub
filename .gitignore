@@ -140,5 +140,5 @@ dmypy.json
 ## Additional
 # never save credentials file
 
-secrets.py
+src/secrets.py
 log.txt
